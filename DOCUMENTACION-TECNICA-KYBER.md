@@ -1,6 +1,6 @@
-# Kyber-512 3D Visualization - Documentación Técnica Completa
+# Kyber-512 3D - Documentación Técnica
 
-> **Proyecto de Nivel Doctorado**
+> **Proyecto de Nivel**
 > Visualización interactiva 3D del algoritmo de cifrado post-cuántico Kyber-512
 
 ## Tabla de Contenidos
@@ -618,3 +618,4 @@ Este proyecto es una implementación educativa de Kyber-512 para propósitos aca
 **Última Actualización**: Enero 2026
 **Autor**: Ramiro Zein Contreras Rangel & Guadalupe Alondra Galván Pérez
 **Contacto**: [Información del investigador]
+
